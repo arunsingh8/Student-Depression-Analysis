@@ -7,10 +7,6 @@ This project undertakes a comprehensive analysis of a "Student Depression Datase
 ## Dashboard Link
 https://app.powerbi.com/view?r=eyJrIjoiZWRiOWQ5MGUtZmE4MC00ZDJkLWI5NDEtOTQzMjA1NTQ1MzlhIiwidCI6ImNlZmMxZTJjLTAxMTAtNGY2OS05ZjEwLTZmNDhhZDdiNGNjNSJ9
 
-## Dataset
-
-The analysis is based on the "Student Depression Dataset". This dataset contains a rich set of features encompassing student demographics (age, gender, city), academic engagement (course, study hours, academic performance), lifestyle factors (sleep quality, social media usage), social support (family support), financial aspects (financial stress), health status, and self-reported mental health indicators, including depression and suicidal thoughts.
-
 ## Methodology
 
 The project followed a structured data analysis workflow:
