@@ -1,5 +1,5 @@
 # Student Depression Analysis Project
-<!-- Uploading "Screenshot 2025-03-31 204800.png"... -->
+![Image](https://github.com/user-attachments/assets/2463efbb-8ace-466c-b117-f8261c795200)
 ## Overview
 
 This project undertakes a comprehensive analysis of a "Student Depression Dataset" to gain insights into the prevalence and various contributing factors associated with depression among students. Recognizing the growing concern for student mental health, this initiative aims to leverage data analysis techniques to identify key trends and potential areas for intervention. The project utilizes a combination of MySQL for robust data management and transformation, and Power BI for creating an interactive and informative dashboard that visually communicates the findings.
